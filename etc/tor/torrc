@@ -207,3 +207,5 @@ BridgeRelay 1
 ORPort 443
 SocksPort 0
 Exitpolicy reject *:*
+PublishServerDescriptor 0
+
